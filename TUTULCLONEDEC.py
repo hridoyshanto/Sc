@@ -238,8 +238,6 @@ def name2():
 					pwv.append(nmf)
 				else:
 					pwv.append(nmf)
-					pwv.append(57273200')
-					#pwv.append(59039200')
 					pwv.append(59039200')
 			if 'mobile' in method:
 				pool.submit(crack,idf,pwv)
